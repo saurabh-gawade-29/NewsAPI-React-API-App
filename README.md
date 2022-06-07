@@ -23,7 +23,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Screenshot
-Home:
 <img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Home.png"/>
 
 ### `npm start`
