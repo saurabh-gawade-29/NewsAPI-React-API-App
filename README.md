@@ -24,7 +24,7 @@ In the project directory, you can run:
 
 ## Screenshot
 Home:
-<a href = "https://www.linkedin.com/in/subhabrata-nath-181375115/"> <img src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Home.png"/> </a>
+<img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Home.png"/>
 
 ### `npm start`
 
