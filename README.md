@@ -24,6 +24,9 @@ In the project directory, you can run:
 
 ## Screenshot
 <img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Home.png"/>
+<img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Navigation.png"/>
+<img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Loader.png"/>
+<img width="50%" src="https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/About.png"/>
 
 ### `npm start`
 
