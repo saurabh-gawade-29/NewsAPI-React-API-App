@@ -23,9 +23,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Screenshot
+
+Home:
 ![image](https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Home.png)
+
+Navigation:
 ![image](https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Navigation.png)
+
+Loader:
 ![image](https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/Loader.png)
+
+About:
 ![image](https://github.com/saurabh-gawade-29/NewsAPI-React-API-App/blob/main/NewsAPI/About.png)
 
 ### `npm start`
